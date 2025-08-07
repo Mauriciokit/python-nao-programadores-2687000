@@ -7,7 +7,7 @@ print(resumo)
 resumo[1]
 
 # Imprima na tela a idade de Paloma (resposta esperada: "46")
-resumo[23:24]
+resumo[23:25]
 
 # Imprima na tela o trecho final da variável
 resumo[31:]
@@ -22,7 +22,7 @@ resumo.upper()
 resumo.title()
 
 # Formate a frase para que apenas a primeira letra da frase seja maiúscula e imprima na tela
-resumo.copitalize()
+resumo.capitalize()
 
 # Imprima na tela uma string utilizando uma variável, usando o recurso string format
 idade=46
